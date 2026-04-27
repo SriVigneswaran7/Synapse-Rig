@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+
+# Arduino build folders and binaries
+build/
+bin/
+*.hex
+*.elf
+
+# Common CAD backup files
+*.bak
+*.s19
+*.pwi
