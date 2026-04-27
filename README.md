@@ -32,7 +32,7 @@ The hardware was developed on a custom PCB, necessitating precision soldering an
 * **Combinational Input Array:** A 4-switch push-button interface for digital logic simulation. 
 ---
 
-## 3. Project I: Combinational Voting Logic
+## 3. Combinational Voting Logic
 The primary computing objective was to synthesise a "majority-vote" decision-making system. The system analyses four concurrent inputs ($SW1-SW4$) to determine if a majority threshold ($\ge 3$) is met. 
 
 ### Mathematical & Logical Framework
@@ -53,7 +53,7 @@ The software-simulated combinational logic was physically validated by monitorin
 
 ---
 
-## 4. Project II: Analog Signal Analysis
+## 4. Analog Signal Analysis
 Beyond digital logic, the rig serves as an analog sensing platform. Using the Arduino Serial Plotter, high-fidelity voltage signals were recorded and analysed to verify sensor performance and signal conditioning accuracy.
 
 | LDR Signal Conditioning Graph | Thermal Stability Analysis |
