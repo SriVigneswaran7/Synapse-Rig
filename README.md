@@ -49,7 +49,7 @@ The software-simulated combinational logic was physically validated by monitorin
 
 | 2 Switches (Fail) | 3 Switches (Pass) | 4 Switches (Pass) |
 | :---: | :---: | :---: |
-| <img src="assets/logic-1.png"/> | <img src="assets/logic-2.png" width=1410/> | <img src="assets/logic-3.png" width=1640/> |
+| <img src="assets/logic-1.png"/> | <img src="assets/logic-2.png" width=1410/> | <img src="assets/logic-3.png" width=1600/> |
 
 ---
 
@@ -58,7 +58,7 @@ Beyond digital logic, the rig serves as an analog sensing platform. Using the Ar
 
 | LDR Signal Conditioning Graph | Thermal Stability Analysis |
 | :---: | :---: |
-| <img src="assets/signal-conditioning.png" width="450"/> | <img src="assets/thermal-analysis.png" width="513"/> |
+| <img src="assets/signal-conditioning.png" width="450"/> | <img src="assets/thermal-analysis.png" width="510"/> |
 
 ### Timing Precision (NE555)
 The timing network utilises a $100k\Omega$ resistor ($R$) and a $100\mu F$ capacitor ($C$). Theoretical pulse duration was calculated using the monostable formula: $$t = 1.1 \times R \times C$$
