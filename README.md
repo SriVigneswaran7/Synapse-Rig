@@ -49,7 +49,7 @@ The software-simulated combinational logic was physically validated by monitorin
 
 | 2 Switches (Fail) | 3 Switches (Pass) | 4 Switches (Pass) |
 | :---: | :---: | :---: |
-| <img src="assets/logic-1.png"/> | <img src="assets/logic-2.png"/> | <img src="assets/logic-3.png"/> |
+| <img src="assets/logic-1.png"/> | <img src="assets/logic-2.png" width=1410/> | <img src="assets/logic-3.png" width=1640/> |
 
 ---
 
