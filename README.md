@@ -1,4 +1,4 @@
-# Synapse-Rig: Multi-Functional Embedded Hardware Architecture
+# Synapse-Rig:
 
 ![Arduino](https://img.shields.io/badge/Arduino-C++-00979D)
 ![Hardware](https://img.shields.io/badge/Hardware-PCB_Design-D70A53)
